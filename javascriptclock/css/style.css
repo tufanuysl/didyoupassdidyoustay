@@ -1,0 +1,39 @@
+
+
+
+
+.clock {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 42px;
+  font-family:'Inter', sans-serif;
+  letter-spacing: 7px;
+}
+
+.text1 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 42px;
+  font-family:'Inter', sans-serif;
+  letter-spacing: 7px;
+  margin-top: 70px;
+  aspect-ratio: 16.9;
+}
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+  font-family:'Inter', sans-serif;
+  letter-spacing: 7px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+ img {
+     margin-top: 70px;
+     width: 17%;
+}
